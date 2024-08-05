@@ -7,7 +7,6 @@ public class KonversiNumber {
         // Narrowing casting
         int iniInt2 = 100;
         byte iniByte2 = (byte) iniInt2;
-
     }
 }
 

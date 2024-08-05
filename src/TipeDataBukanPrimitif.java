@@ -14,7 +14,6 @@ public class TipeDataBukanPrimitif {
 
         // Konversi primitif ke object tipe data lain
         short shortObject = byteObject.shortValue();
-
     }
 }
 /*
