@@ -10,7 +10,7 @@ public class KonversiNumber {
     }
 }
 
-/*
+/**
 * Widening casting (otomatis) : byte -> short -> int -> long -> float -> double
 * Narrowing casting (manual) : double -> float -> long -> int -> short -> byte */
 

@@ -16,7 +16,7 @@ public class TipeDataBukanPrimitif {
         short shortObject = byteObject.shortValue();
     }
 }
-/*
+/**
 * Tipe data primitif: number, boolean, char,
 * Tipe data primitif memiliki default value
 * Tipe data tidak primitif / object tidak memiliki default value, tetapi bernilai null

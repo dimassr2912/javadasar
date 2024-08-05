@@ -9,5 +9,5 @@ public class TipeDataCharacter {
        System.out.println(o);
     }
 }
-/*
+/**
 * char menggunakan petik satu*/

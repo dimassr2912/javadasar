@@ -11,5 +11,5 @@ public class TipeDataString {
         System.out.println(fullName);
     }
 }
-/*
+/**
 * Default value: null*/

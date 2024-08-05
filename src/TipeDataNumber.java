@@ -22,7 +22,7 @@ public class TipeDataNumber {
     }
 }
 
-/*
+/**
 * Dibagi menjadi 2:
 * Integer dan Floating point
 * Integer: byte, short, int, long

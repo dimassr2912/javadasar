@@ -8,5 +8,5 @@ public class TipeDataBoolean {
 
     }
 }
-/*
+/**
 * Default value: false */

@@ -16,6 +16,6 @@ public class Variable {
         final String lastName = "Ramadhansyah";
     }
 }
-/*
+/**
 * Jika menggunakan var harus diinisialisasi
 * Final: variable yang value tidak boleh diubah*/
